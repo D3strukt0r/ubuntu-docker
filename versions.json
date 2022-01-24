@@ -1,0 +1,15 @@
+{
+    "_default": {
+        "architectures": [
+            "amd64",
+            "arm64",
+            "riscv64"
+        ]
+    },
+    "22.02": {
+        "aliases": [
+            "latest",
+            "jammy"
+        ]
+    }
+}
